@@ -56,16 +56,16 @@ background-size: cover;}
 
 
 .Main2 div{
-	padding-top:36%; 
-	width:80%;
-	padding-left: 15%;
+	padding-top:3%; 
+	width:100%;
 	position: fixed;
 	
 }
 
-.Main2 div a{float:left; 
+.Main2 div a{float:right; 
 			 padding-right:60px; 
 			 color:#fff;
+	  text-decoration: underline;
 
 			}
 
