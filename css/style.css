@@ -209,7 +209,7 @@ h4{color: rgba(255, 255, 255, 0.5);
 }
 .fh5co-nav ul li.has-dropdown .dropdown li a:hover {
   color: #000;
-}
+ }
 .fh5co-nav ul li.has-dropdown:hover a, .fh5co-nav ul li.has-dropdown:focus a {
   color: #fff;
 }
@@ -1709,4 +1709,12 @@ h4{color: rgba(255, 255, 255, 0.5);
 .padding-top-44 {padding-top: 44px;
 }
 .padding-top--20 {padding-top: -20px;
+}
+.logo-drake {width: 88px;height: 44px;
+background-image: url(../images/logo-white.png);
+	display: inline-block;
+}
+.scrolled .logo-drake{width: 88px;height: 44px;
+background-image: url(../images/logo.png);
+	display: inline-block;
 }
